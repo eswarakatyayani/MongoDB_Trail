@@ -7,4 +7,5 @@ open postman for GET & POST outputs
 
 #Comparing with ordinary projects 
 We use flask framework 
-But for database we used Sqllite3 to store database and put that .db file into our folder and for outputs we used web browser.
+But for database we used Sqllite3 to store database and put that .db file into our Flask Project folder(NOT INISIDE THE .py file) and for outputs we used web browser.
+But here we use MongoDb Compass to store database and put that file into .py file and for outputs we use Postman to check
